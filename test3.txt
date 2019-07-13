@@ -3,3 +3,4 @@ welcome!
 haha ~
 hello ff
 hello git
+git reset
